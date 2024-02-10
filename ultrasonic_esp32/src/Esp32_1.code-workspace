@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Esp32_1"
+		},
+		{
+			"name": "motiondetector_esp32",
+			"path": "../../motiondetector_esp32"
+		},
+		{
+			"name": "ultrasonic_esp32",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../ledDisplay"
+		},
+		{
+			"name": "Esp32_1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
